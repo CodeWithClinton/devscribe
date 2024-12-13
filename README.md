@@ -1,9 +1,11 @@
-# React + Vite
+# 🚀 Project Overview
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project is a simple yet powerful **Content Management System (CMS)** built using **React JS** and **Tailwind CSS** on the frontend, with **Django** powering the backend and **SQLite3** as the database.
 
-Currently, two official plugins are available:
+## ✨ Features
+- **User Authentication**: Create an account, log in, and manage user sessions.  
+- **Content Management**: Add, edit, and manage content seamlessly.  
+- **Theming Options**: Supports both **light and dark mode** for an enhanced user experience.  
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-# devscribe
+---
+
