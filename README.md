@@ -27,16 +27,50 @@ This project is a simple yet powerful **Content Management System (CMS)** built 
 ## 1. Clone the Repository
 
 ```bash
-git clone https://github.com/CodeWithClinton/yt_devfolio_api
-cd yt_devfolio_api
+git clone https://github.com/CodeWithClinton/devscribe
 ```
 
-## 2. Backend Setup (Django)
 
-Create a virtual environment and activate it:
+## 2. Navigate to the frontend folder:
 ```bash
-python -m venv venv
-source venv/bin/activate  # On Windows: venv\Scripts\activate
+cd devscribe
 ```
 
 
+## 3. Frontend Setup (React)
+Install Node.js dependencies:
+```bash
+npm install
+```
+
+## 4. Start the React development server:
+```bash
+npm run dev
+```
+
+NOTE: The backend API is hosted on a separate server
+
+
+
+
+## ⚡ Usage
+
+### 🔹 **Create an Account**  
+Sign up with an email and password to start managing your content.
+
+### 🔹 **Manage Content**  
+Add, edit, or delete content as needed using the user-friendly interface.
+
+### 🔹 **Switch Themes**  
+Toggle between light and dark mode for a customized experience.
+
+
+
+
+## 💡 Standout Features
+
+- **Light/Dark Theme**: Toggle between light and dark themes with a smooth, modern UI experience.
+
+- **User Authentication**: Built-in authentication to ensure secure access to content.
+
+- **Responsive Design**: The interface works seamlessly on desktop, tablet, and mobile devices.
