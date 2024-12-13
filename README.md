@@ -9,3 +9,14 @@ This project is a simple yet powerful **Content Management System (CMS)** built 
 
 ---
 
+## 🛠️ Tech Stack
+
+### **Frontend:**
+- React.js
+- Tailwind CSS
+
+### **Backend:**
+- Django
+
+### **Database:**
+- SQLite3
