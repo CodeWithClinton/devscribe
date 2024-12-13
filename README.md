@@ -1,6 +1,6 @@
 # 🚀 Project Overview
 
-This project is a simple yet powerful **Content Management System (CMS)** built using **React JS** and **Tailwind CSS** on the frontend, with **Django** powering the backend and **SQLite3** as the database.
+DevScribe is a simple yet powerful **Content Management System (CMS)** built using **React JS** and **Tailwind CSS** on the frontend, with **Django** powering the backend and **SQLite3** as the database.
 
 ## ✨ Features
 - **User Authentication**: Create an account, log in, and manage user sessions.  
