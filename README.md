@@ -20,3 +20,23 @@ This project is a simple yet powerful **Content Management System (CMS)** built 
 
 ### **Database:**
 - SQLite3
+
+
+# 📦 Setup Instructions
+
+## 1. Clone the Repository
+
+```bash
+git clone https://github.com/CodeWithClinton/yt_devfolio_api
+cd yt_devfolio_api
+```
+
+## 2. Backend Setup (Django)
+
+Create a virtual environment and activate it:
+```bash
+python -m venv venv
+source venv/bin/activate  # On Windows: venv\Scripts\activate
+```
+
+
