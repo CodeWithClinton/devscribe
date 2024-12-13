@@ -22,6 +22,9 @@ This project is a simple yet powerful **Content Management System (CMS)** built 
 - SQLite3
 
 
+---
+
+
 # 📦 Setup Instructions
 
 ## 1. Clone the Repository
@@ -51,7 +54,7 @@ npm run dev
 NOTE: The backend API is hosted on a separate server
 
 
-
+---
 
 ## ⚡ Usage
 
@@ -65,7 +68,7 @@ Add, edit, or delete content as needed using the user-friendly interface.
 Toggle between light and dark mode for a customized experience.
 
 
-
+---
 
 ## 💡 Standout Features
 
