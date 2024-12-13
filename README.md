@@ -1,57 +1,59 @@
-# 🚀 Project Overview
+# 🚀 **DevScribe - Your Simple Yet Powerful CMS**
 
-DevScribe is a simple yet powerful **Content Management System (CMS)** built using **React JS** and **Tailwind CSS** on the frontend, with **Django** powering the backend and **SQLite3** as the database.
-
-## ✨ Features
-- **User Authentication**: Create an account, log in, and manage user sessions.  
-- **Content Management**: Add, edit, and manage content seamlessly.  
-- **Theming Options**: Supports both **light and dark mode** for an enhanced user experience.  
+DevScribe is a sleek, modern **Content Management System (CMS)** that combines the efficiency of **React JS** and **Tailwind CSS** on the frontend with the robustness of **Django** on the backend. It leverages **SQLite3** as its database to offer a smooth and efficient development experience.
 
 ---
 
-## 🛠️ Tech Stack
-
-### **Frontend:**
-- React.js
-- Tailwind CSS
-
-### **Backend:**
-- Django
-
-### **Database:**
-- SQLite3
-
+## ✨ **Key Features**
+- 🔐 **User Authentication**: Securely create an account, log in, and manage user sessions.  
+- ✍️ **Content Management**: Easily add, edit, and manage content through an intuitive UI.  
+- 🌗 **Theming Options**: Switch between **light and dark modes** for a personalized user experience.  
 
 ---
 
+## 🛠️ **Tech Stack**
 
-# 📦 Setup Instructions
+**Frontend**  
+- ⚛️ React.js  
+- 🎨 Tailwind CSS  
 
-## 1. Clone the Repository
+**Backend**  
+- 🐍 Django  
 
+**Database**  
+- 🗄️ SQLite3  
+
+---
+
+# 📦 **Setup Instructions**
+
+Follow these steps to get **DevScribe** up and running on your local machine.
+
+## 🔹 **1. Clone the Repository**
 ```bash
 git clone https://github.com/CodeWithClinton/devscribe
 ```
 
 
-## 2. Navigate to the frontend folder:
+## 🔹 2. Navigate to the Project Folder
 ```bash
 cd devscribe
 ```
 
 
-## 3. Frontend Setup (React)
-Install Node.js dependencies:
+## 🔹 3. Frontend Setup (React)
+Install the required dependencies:
 ```bash
 npm install
 ```
 
-## 4. Start the React development server:
+## 🔹 4. Start the Development Server
+Run the React development server:
 ```bash
 npm run dev
 ```
 
-NOTE: The backend API is hosted on a separate server
+> **Note:** The backend API is hosted on a free live server, so initial data fetch may take up to **50 seconds**.
 
 
 ---
