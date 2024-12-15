@@ -79,3 +79,19 @@ Toggle between light and dark mode for a customized experience.
 - **User Authentication**: Built-in authentication to ensure secure access to content.
 
 - **Responsive Design**: The interface works seamlessly on desktop, tablet, and mobile devices.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
